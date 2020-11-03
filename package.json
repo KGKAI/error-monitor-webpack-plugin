@@ -1,0 +1,15 @@
+{
+  "name": "error-monitor-webpack-plugin",
+  "version": "0.1.1",
+  "description": "A plugin for error monitor",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "error",
+    "monitor"
+  ],
+  "author": "KGKAI",
+  "license": "ISC"
+}
