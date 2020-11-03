@@ -3,6 +3,7 @@
   "version": "0.1.1",
   "description": "A plugin for error monitor",
   "main": "./src/index.js",
+  "repository": "https://github.com/KGKAI/error-monitor-webpack-plugin.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
